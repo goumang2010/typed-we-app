@@ -1,7 +1,7 @@
 {
-    "name": "typed-we-app",
-    "version": "1.6.0-update.3",
-    "description": "typescript declaration for WeApp",
+    "name": "typed-weapp",
+    "version": "1.0.3",
+    "description": "typescript declaration for WeApp, this is a fork of typed-we-app",
     "main": "we-app.d.ts",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "author": "Emeryao",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Emeryao/typed-we-app"
+        "url": "https://github.com/goumang2010/typed-we-app"
     },
     "license": "MIT"
 }
